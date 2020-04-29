@@ -38,13 +38,3 @@ Values don't matter for writes.
 7. Line size should also be power of 2 and at least 4 (bytes).
 
 8. It should use an LRU eviction policy.
-
-
-# Note
-1. This project can be pretty easy if you use good object-oriented style.
-2. You can work on group of 2.
-
-# Deadline - November 30, 2019
-
-# References
-Please refer to the cache.png for more details on output format and call.
